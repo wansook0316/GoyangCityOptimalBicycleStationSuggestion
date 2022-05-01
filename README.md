@@ -1,5 +1,7 @@
 # 고양시 공공자전거 스테이션 최적 위치 선정 - 수요와 Rebalancing을 고려한 최적 자전거 스테이션 제안
 
+COMPAS에서 진행한 공공 자전거 최적 위치 선정 대회 출전 자료입니다. [링크](https://wansook0316.github.io/cv/projects/2020/09/11/%EA%B3%A0%EC%96%91%EC%8B%9C-%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0-%EC%B5%9C%EC%A0%81-%EC%9E%85%EC%A7%80-%EC%84%A0%EC%A0%95-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-09-%EB%B3%B4%EA%B3%A0%EC%84%9C.html)에서 확인하실 수 있습니다.
+
 데이터는 대외비라 공개할 수 없는점 양해 부탁드립니다.
 
 * 성과 : 장려상
